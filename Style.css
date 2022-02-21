@@ -1,6 +1,8 @@
 #real-alert {
-    background-color: crimson;
+    font-weight: bold;
+    color: black;
 }
-#test-only {background-color: blueviolet;
-
+#test-only {
+    font-style: italic;
+    color: darkslategray;
 }
